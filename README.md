@@ -13,6 +13,12 @@ D-money is a transactional system where user can send money, make payment and ot
 - ``` npm i ```
 - ``` npm test ```
 
+# Test Cases
+https://docs.google.com/spreadsheets/d/1qBinIRWRFfDB0bKcjBdWZolxchyHhbyjYSqndStPZBw/edit?usp=drive_link
+
+# Bug Report
+https://docs.google.com/spreadsheets/d/1eFDX20OO7TUx3zBHvD1vKUZ_Q--RQmkbmc80vS_yJvc/edit?usp=drive_link
+
 # User documentation
 https://documenter.getpostman.com/view/39820937/2sAYBUDXc2
 
